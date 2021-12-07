@@ -1,7 +1,12 @@
-# Banque de liens - Sécrétariat Général 2021-2023
+---
+title: "Banque de liens - Sécrétariat Général 2021-2023"
+author: "Amicale des Anciens du Lycée Scientifique de Yamoussoukro"
+output: html_document
+---
 
-## Amicale des Anciens du Lycée Scientifique de Yamoussoukro
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 ### Les comptes rendus des réunions du conseil d'administration
 
 * [Fichier consolidé des comptes rendus](https://docs.google.com/spreadsheets/d/15LHlnN6vnnVLqCdjdxYY-NY-FP93_3dT/edit?usp=sharing&ouid=101365254398585075231&rtpof=true&sd=true)
@@ -11,9 +16,10 @@
 * [RDSPV](https://docs.google.com/document/d/1-fWJPiyaIbJFK6fkKah7FdAiyKPVVSs_/edit?usp=sharing&ouid=101365254398585075231&rtpof=true&sd=true)
 * [CRLSY](https://docs.google.com/document/d/1TyW5tN2izYgi72zeFmMJgv-6xF100_FS/edit?usp=sharing&ouid=101365254398585075231&rtpof=true&sd=true)
 
-### Les feuilles de route des commissions
+### Gestion des activités de l'année budgétaire 2021-2022
 
 * [Fichier consolidé des feuilles de route](https://docs.google.com/document/d/1ez4FRCsnSWuA5kmT7_mlnEyZB3vCWDh-/edit?usp=sharing&ouid=101365254398585075231&rtpof=true&sd=true)
+* [Fichier consolidé des activités programmées](https://docs.google.com/spreadsheets/d/1qhaL_RGfrEd7MsZIKfd2dr3p7Q5s6ybE/edit?usp=sharing&ouid=101365254398585075231&rtpof=true&sd=true)
 
 ### Les bases de données de la 2ALSY
 
@@ -21,11 +27,11 @@
 
 ### Les communiqués
 
-* [Nomination du SG et SGA]()
+* [Nomination du SG et SGA](https://docs.google.com/document/d/1DEzEPnYdiH38JUHv_PiaMiLxUPboo1PjXak8Nu-xikg/edit?usp=sharing)
 
 * [Nomination des Vices Présidents et Conseillers](https://docs.google.com/document/d/1waRmRE2EJBTnb1CgSMzW2-TCgpvphRp6/edit?usp=sharing&ouid=101365254398585075231&rtpof=true&sd=true)
 
-* [Nomination des présidents de commission]()
+* [Nomination des présidents de commission](https://docs.google.com/document/d/1XQtPXkoATjviC0ytu16CeAfy5TxszoLz/edit?usp=sharing&ouid=101365254398585075231&rtpof=true&sd=true)
 
 * [Urgence Médicale Gohui Yao AS28](https://docs.google.com/document/d/1IQ5CI04vT5k8zD6QhxgfwNeGF0lHaAMQ/edit?usp=sharing&ouid=101365254398585075231&rtpof=true&sd=true)
 
